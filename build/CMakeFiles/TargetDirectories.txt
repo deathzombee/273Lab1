@@ -1,3 +1,0 @@
-/home/gabriel971887/asm/nuerologic_lab/build/CMakeFiles/rebuild_cache.dir
-/home/gabriel971887/asm/nuerologic_lab/build/CMakeFiles/foo.dir
-/home/gabriel971887/asm/nuerologic_lab/build/CMakeFiles/edit_cache.dir
