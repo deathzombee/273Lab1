@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel971887/asm/nuerologic_lab/foo.c
+foo.h
+/home/gabriel971887/asm/nuerologic_lab/foo.h
+
+/home/gabriel971887/asm/nuerologic_lab/foo.h
+
+/home/gabriel971887/asm/nuerologic_lab/main.c
+stdio.h
+-
+foo.h
+/home/gabriel971887/asm/nuerologic_lab/foo.h
+

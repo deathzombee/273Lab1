@@ -1,0 +1,32 @@
+
+https://phillipsd.com/273/labs/site/Neurologc_Lab1/
+Mission Probable:
+- Get it working - foo.h foo.c main.c - in a new folder
+- Compile use the flags for the debugger - remember what they are?
+- Change foo's to addme's
+- Save copy Get it working
+- Get one user input to replace int y in main.c - add 8 (not 5) // see demoin.c - Save copy Get it working
+- Comment your understanding of how all this works
+- Create a pdf with lots of screen shots and comments submit as fname123456_hw1A.pdf
+
+Part B
+- Now into the internals time to use gdb to explore this source code thoughts
+- Tell the story of what this code is doing. For example,
+- What is the address space of the code, function, variables?
+- What can you change while running?
+- Comment your understanding of how all this works
+- Create a pdf with lots of screen shots and comments submit as fname123456_hw1B.pdf
+
+Here are some commands to get you started.
+run or r –> executes the program from start to end.
+break or b –> sets breakpoint on a particular line.
+disable -> disable a breakpoint.
+enable –> enable a disabled breakpoint.
+next or n -> executes next line of code, but don’t dive into functions.
+step –> go to next instruction, diving into the function.
+list or l –> displays the code.
+print or p –> used to display the stored value.
+quit or q –> exits out of gdb.
+clear –> to clear all breakpoints.
+continue –> continue normal execution.
+

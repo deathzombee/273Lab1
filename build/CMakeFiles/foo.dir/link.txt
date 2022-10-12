@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/foo.dir/foo.c.o CMakeFiles/foo.dir/main.c.o  -o foo 
