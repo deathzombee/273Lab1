@@ -4,7 +4,9 @@
 #include "foo.h"
 int main(void)
 {
-int y = foo(3);
+int y;
+scanf( "%d", &y );
+y = foo(y);
 printf("%d\n", y);
 return 0;
 }
